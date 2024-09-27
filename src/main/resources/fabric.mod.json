@@ -8,9 +8,9 @@
 		"scarcekoi"
 	],
 	"contact": {
-		"homepage": "",
-		"sources": "",
-		"issues": ""
+		"homepage": "https://modrinth.com/mod/beryllium",
+		"sources": "https://github.com/scarcekoi/Beryllium",
+		"issues": "https://github.com/scarcekoi/Beryllium/issues"
 	},
 	"license": "MIT License",
 	"icon": "assets/beryllium/icon/icon.png",
