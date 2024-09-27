@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:beryllium/root",
+  "criteria": {
+    "got_beryllium_powder": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "beryllium:beryllium_powder"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "text": "And you can inhale it."
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "beryllium:beryllium_powder"
+    },
+    "show_toast": true,
+    "title": {
+      "text": "Now It's a Powder"
+    }
+  },
+  "requirements": [
+    [
+      "got_beryllium_powder"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

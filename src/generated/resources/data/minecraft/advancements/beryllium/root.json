@@ -1,0 +1,38 @@
+{
+  "criteria": {
+    "got_raw_beryllium": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "beryllium:raw_beryllium"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "background": "beryllium:textures/gui/advancements/backgrounds/beryllium.png",
+    "description": {
+      "text": "That's one way to get chronic beryllium disease."
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "beryllium:raw_beryllium"
+    },
+    "show_toast": true,
+    "title": {
+      "text": "A Toxic Way"
+    }
+  },
+  "requirements": [
+    [
+      "got_raw_beryllium"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

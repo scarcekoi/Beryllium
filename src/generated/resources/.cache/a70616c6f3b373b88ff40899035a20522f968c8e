@@ -1,7 +1,7 @@
-// 1.20.1	2024-09-26T19:23:20.2592186	Beryllium/Model Definitions
+// 1.20.1	2024-09-27T12:03:16.9195292	Beryllium/Model Definitions
 f1154739124475b4c8adbe9b09115a621600274f assets\beryllium\blockstates\raw_beryllium_block.json
-800d8c87e74655132bdf75d98b1819e5846a6686 assets\beryllium\models\block\beryllium_block.json
 f45c3d61fca77d20c74228e87b5fed7a3066d3bb assets\beryllium\models\item\beryllium_sheet.json
+800d8c87e74655132bdf75d98b1819e5846a6686 assets\beryllium\models\block\beryllium_block.json
 2b01ffa449f48371d03fc44ebffd4f61b4bda8b9 assets\beryllium\models\item\beryllium_powder.json
 cba3458451dda0e3883836f205fd56cd42d148c0 assets\beryllium\models\item\raw_beryllium_block.json
 53deed2c3d93f2c469674fbd9400eea32c1df858 assets\beryllium\models\item\crushed_raw_beryllium.json
@@ -11,8 +11,8 @@ cba3458451dda0e3883836f205fd56cd42d148c0 assets\beryllium\models\item\raw_beryll
 ba0f34a587add0e573cab16f2d9346125267abe9 assets\beryllium\blockstates\beryllium_block.json
 28cfe8b9b554aac63691e84bbd9de68e71a6300c assets\beryllium\models\item\raw_beryllium.json
 c1db24ed70c4a06646732c66afd847fd47975e25 assets\beryllium\blockstates\beryllium_ore.json
-8d89b68921ab770260b6dd3b09d39a6b109e3ac6 assets\beryllium\models\block\deepslate_beryllium_ore.json
 fac87df1f1c3547538c6c74bab6089b5104dab30 assets\beryllium\models\item\beryllium_ingot.json
+8d89b68921ab770260b6dd3b09d39a6b109e3ac6 assets\beryllium\models\block\deepslate_beryllium_ore.json
 bcd2f8bc9d6a72f2fd5d4c5d9d56be3dcf88c08d assets\beryllium\models\item\deepslate_beryllium_ore.json
-b44bef21de7f82031b48ec51b2c69b11bfee155b assets\beryllium\models\block\beryllium_ore.json
 960c265b523f61e9a86678830939aa0cfa4bec01 assets\beryllium\models\block\raw_beryllium_block.json
+b44bef21de7f82031b48ec51b2c69b11bfee155b assets\beryllium\models\block\beryllium_ore.json

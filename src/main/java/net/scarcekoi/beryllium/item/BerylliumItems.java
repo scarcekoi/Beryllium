@@ -12,8 +12,7 @@ public class BerylliumItems {
             .fireproof()));
     public static final Item BERYLLIUM_INGOT = registerItem("beryllium_ingot", new Item(new FabricItemSettings()
             .fireproof()));
-    public static final Item BERYLLIUM_POWDER = registerItem("beryllium_powder", new Item(new FabricItemSettings()
-            .fireproof()));
+    public static final Item BERYLLIUM_POWDER = registerItem("beryllium_powder", new Item(new FabricItemSettings()));
     public static final Item CRUSHED_RAW_BERYLLIUM = registerItem("crushed_raw_beryllium", new Item(new FabricItemSettings()
             .fireproof()));
     public static final Item BERYLLIUM_SHEET = registerItem("beryllium_sheet", new Item(new FabricItemSettings()

@@ -15,6 +15,7 @@ public class BerylliumDataGenerator implements DataGeneratorEntrypoint {
 	public void onInitializeDataGenerator(FabricDataGenerator fabricDataGenerator) {
 		FabricDataGenerator.Pack pack = fabricDataGenerator.createPack();
 
+		pack.addProvider(BerylliumAdvancementProvider::new);
 		pack.addProvider(BerylliumBlockTagProvider::new);
 		pack.addProvider(BerylliumItemTagProvider::new);
 		pack.addProvider(BerylliumLootTableProvider::new);
