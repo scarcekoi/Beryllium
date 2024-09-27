@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "beryllium:beryllium_ingot"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 4,
+      "item": "beryllium:beryllium_powder"
+    },
+    {
+      "chance": 0.125,
+      "item": "beryllium:beryllium_powder"
+    },
+    {
+      "chance": 0.75,
+      "item": "create:experience_nugget"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "beryllium:raw_beryllium",
+    "beryllium:beryllium_ingot",
+    "beryllium:beryllium_powder",
+    "beryllium:crushed_raw_beryllium",
+    "beryllium:beryllium_sheet"
+  ]
+}

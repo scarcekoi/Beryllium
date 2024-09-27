@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "technetium",
+  "ingredients": [
+    {
+      "item": "beryllium:beryllium_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "beryllium:beryllium_ingot"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "technetium",
+  "key": {
+    "#": {
+      "item": "beryllium:beryllium_ingot"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "beryllium:beryllium_block"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_beryllium_ore": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "beryllium:beryllium_ore"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:beryllium_ingot_from_smelting_beryllium_ore"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_beryllium_ore",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:beryllium_ingot_from_smelting_beryllium_ore"
+    ]
+  },
+  "sends_telemetry_event": false
+}

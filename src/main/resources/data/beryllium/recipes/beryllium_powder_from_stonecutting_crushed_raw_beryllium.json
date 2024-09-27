@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "category": "misc",
+  "group": "beryllium",
+  "ingredient": {
+    "item": "beryllium:crushed_raw_beryllium"
+  },
+  "result": "beryllium:beryllium_powder",
+  "count": 4
+}

@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "beryllium:beryllium_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "beryllium:beryllium_sheet"
+    }
+  ]
+}

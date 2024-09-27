@@ -1,0 +1,18 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "beryllium:raw_beryllium"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "item": "beryllium:crushed_raw_beryllium"
+    },
+    {
+      "chance": 0.75,
+      "item": "create:experience_nugget"
+    }
+  ]
+}

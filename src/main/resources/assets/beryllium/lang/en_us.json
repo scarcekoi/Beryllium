@@ -1,0 +1,14 @@
+{
+  "item.beryllium.raw_beryllium": "Raw Beryllium",
+  "item.beryllium.beryllium_ingot": "Beryllium Ingot",
+  "item.beryllium.beryllium_powder": "Beryllium Powder",
+  "item.beryllium.crushed_raw_beryllium": "Crushed Raw Beryllium",
+  "item.beryllium.beryllium_sheet": "Beryllium Sheet",
+
+  "block.beryllium.raw_beryllium_block": "Block of Raw Beryllium",
+  "block.beryllium.beryllium_block": "Block of Beryllium",
+  "block.beryllium.beryllium_ore": "Beryllium Ore",
+  "block.beryllium.deepslate_beryllium_ore": "Deepslate Beryllium Ore",
+
+  "itemgroup.beryllium": "Beryllium"
+}

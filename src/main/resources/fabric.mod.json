@@ -1,0 +1,43 @@
+{
+	"schemaVersion": 1,
+	"id": "beryllium",
+	"version": "${version}",
+	"name": "Beryllium",
+	"description": "Adds an ore called Beryllium.",
+	"authors": [
+		"scarcekoi"
+	],
+	"contact": {
+		"homepage": "",
+		"sources": "",
+		"issues": ""
+	},
+	"license": "MIT License",
+	"icon": "assets/beryllium/icon/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.scarcekoi.beryllium.Beryllium"
+		],
+		"client": [
+			"net.scarcekoi.beryllium.BerylliumClient"
+		],
+		"fabric-datagen": [
+			"net.scarcekoi.beryllium.BerylliumDataGenerator"
+		]
+	},
+	"mixins": [
+		"beryllium.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.3",
+		"minecraft": "1.20.1",
+		"java": ">=17",
+		"fabric-api": "0.92.2+1.20.1"
+	},
+	"suggests": {
+		"modmenu": "7.2.2",
+		"sodium": "mc1.20.1-0.5.11",
+		"create-fabric": "~0.5.1-f-build.1417+mc1.20.1"
+	}
+}

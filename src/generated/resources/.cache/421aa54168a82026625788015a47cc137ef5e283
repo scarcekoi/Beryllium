@@ -1,0 +1,5 @@
+// 1.20.1	2024-09-26T19:23:20.262725	Beryllium/Block Loot Tables
+7a98d3bb3b19ff699444bb6eaded69c18dcdc25b data\beryllium\loot_tables\blocks\beryllium_ore.json
+5563995d380298c3b4eff3800c808dc4d86b50da data\beryllium\loot_tables\blocks\beryllium_block.json
+8f95ee18082a244fe6f2a3d5a0ca54bcca83a2ac data\beryllium\loot_tables\blocks\raw_beryllium_block.json
+fa58f1e2d10e7deaa05d88f096147231ab8068ff data\beryllium\loot_tables\blocks\deepslate_beryllium_ore.json
