@@ -24,11 +24,11 @@ public class BerylliumConfiguredFeatures {
         RuleTest stoneReplacables = new TagMatchRuleTest(BlockTags.STONE_ORE_REPLACEABLES);
         RuleTest deepslateReplacables = new TagMatchRuleTest(BlockTags.DEEPSLATE_ORE_REPLACEABLES);
 
-        List<OreFeatureConfig.Target> overworldTechnetiumOres =
+        List<OreFeatureConfig.Target> overworldBerylliumOres =
                 List.of(OreFeatureConfig.createTarget(stoneReplacables, BerylliumBlocks.BERYLLIUM_ORE.getDefaultState()),
                         OreFeatureConfig.createTarget(deepslateReplacables, BerylliumBlocks.DEEPSLATE_BERYLLIUM_ORE.getDefaultState()));
 
-        register(context, BERYLLIUM_ORE_KEY, Feature.ORE, new OreFeatureConfig(overworldTechnetiumOres, 9));
+        register(context, BERYLLIUM_ORE_KEY, Feature.ORE, new OreFeatureConfig(overworldBerylliumOres, 9));
     }
 
     public static RegistryKey<ConfiguredFeature<?, ?>> registerKey(String name) {
