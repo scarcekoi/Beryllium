@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "category": "misc",
+  "group": "technetium",
+  "ingredient": {
+    "item": "technetium:technetium_ingot"
+  },
+  "result": "technetium:technetium_powder",
+  "count": 4
+}
